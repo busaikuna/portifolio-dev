@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 import { ArrowDownRight, ArrowUpRight, Menu, Moon, Sun, X } from 'lucide-react'
 
 const hobbies = [
-  ['01', 'Guitarra', 'Cordas, timbres e prática até a música encontrar seu lugar.'],
+  ['01', 'Violão', 'Cordas, timbres e prática até a música encontrar seu lugar.'],
   ['02', 'Canto', 'A voz como instrumento, presença e uma forma direta de conexão.'],
   ['03', 'Games', 'Mundos interativos, estratégia e histórias que ficam depois da tela.'],
   ['04', 'Anime', 'Narrativas visuais, personagens complexos e referências que atravessam culturas.'],
